@@ -17,7 +17,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
              <i className="fas fa-book-open text-6xl text-zim-yellow"></i>
           </div>
           <h1 className="text-5xl md:text-7xl font-extrabold mb-6 tracking-tight leading-tight">
-            ZimEd <span className="text-zim-yellow">Planner</span>
+            ZimEdu <span className="text-zim-yellow">A.I Assistant</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-100 mb-10 max-w-3xl leading-relaxed">
             The ultimate A.I Assistant for Zimbabwean Educators. 
