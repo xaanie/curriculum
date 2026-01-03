@@ -21,7 +21,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
           </h1>
           <p className="text-xl md:text-2xl text-gray-100 mb-10 max-w-3xl leading-relaxed">
             The ultimate A.I Assistant for Zimbabwean Educators. 
-            Fully aligned with the <strong>Heritage Based Curriculum (2024-2030)</strong>.
+            Fully aligned with the <strong>Heritage Based Curriculum (2024-2030)        </strong>.
           </p>
           <button
             onClick={onGetStarted}
