@@ -20,7 +20,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
             ZimEd <span className="text-zim-yellow">Planner</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-100 mb-10 max-w-3xl leading-relaxed">
-            The ultimate automated Scheme of Work generator for Zimbabwean Primary Educators. 
+            The ultimate A.I Planning Tool for Zimbabwean Educators. 
             Fully aligned with the <strong>Heritage Based Curriculum (2024-2030)</strong>.
           </p>
           <button
