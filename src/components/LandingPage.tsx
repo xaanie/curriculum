@@ -57,9 +57,9 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
             <div className="w-16 h-16 bg-red-50 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-red-100 transition-colors">
               <i className="fas fa-magic text-2xl text-zim-red"></i>
             </div>
-            <h3 className="text-lg font-bold mb-3 text-center">AI Generation</h3>
+            <h3 className="text-lg font-bold mb-3 text-center">Plan Your Lessons</h3>
             <p className="text-sm text-gray-600 text-center leading-relaxed">
-              Instantly generate detailed weekly schemes with objectives and activities.
+              Instantly create detailed lessons aligned to the Heritage Based curriclum.
             </p>
           </div>
 
@@ -70,7 +70,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
             </div>
             <h3 className="text-lg font-bold mb-3 text-center">MoPSE Aligned</h3>
             <p className="text-sm text-gray-600 text-center leading-relaxed">
-              Strictly adheres to the Heritage Based Curriculum for Grades 3-7.
+              Strictly adheres to the Heritage Based Curriculum.
             </p>
           </div>
 
@@ -92,7 +92,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
             </div>
             <h3 className="text-lg font-bold mb-3 text-center">Assessments</h3>
             <p className="text-sm text-gray-600 text-center leading-relaxed">
-              Generate topical tests, quizzes, and marking guides with one click.
+              Create topical assessments, end of term tests, and marking guides with one click.
             </p>
           </div>
         </div>
